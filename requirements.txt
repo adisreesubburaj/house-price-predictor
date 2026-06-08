@@ -1,4 +1,5 @@
+%%writefile requirements.txt
 streamlit
 numpy
+pandas
 scikit-learn
-joblib
